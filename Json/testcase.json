@@ -1,0 +1,121 @@
+[
+  {
+    "id": "sadgsd",
+    "testTitle": "User Registration",
+    "scenario": "User successfully registers with valid information",
+    "Description": "Verify that a new user can register with valid details",
+    "PreRequisities": "User navigates to the registration page",
+    "TestSteps": "1. Enter valid user details\n2. Click on the 'Register' button",
+    "TestData": "Name, Email, Password",
+    "ExpectedResult": "User is registered successfully",
+    "Status": true,
+    "module_id": "dfgsg"
+  },
+  {
+    "id": "asdffa",
+    "testTitle": "User Login",
+    "scenario": "Registered user logs in with valid credentials",
+    "Description": "Ensure that a registered user can log in using correct credentials",
+    "PreRequisities": "User is registered and on the login page",
+    "TestSteps": "1. Enter valid login credentials\n2. Click on the 'Login' button",
+    "TestData": "Email, Password",
+    "ExpectedResult": "User is logged in successfully",
+    "Status": true,
+    "module_id": "htsrbb7"
+  },
+  {
+    "id": "asdf",
+    "testTitle": "Add to Cart",
+    "scenario": "User adds a product to the shopping cart",
+    "Description": "Validate that a user can add a product to their shopping cart",
+    "PreRequisities": "User is logged in and viewing a product",
+    "TestSteps": "1. Click on the 'Add to Cart' button\n2. View the shopping cart",
+    "TestData": "Product ID",
+    "ExpectedResult": "Product is added to the cart",
+    "Status": true,
+    "module_id": "dfgsg"
+  },
+  {
+    "id": "sdf",
+    "testTitle": "Checkout Process",
+    "scenario": "User completes the checkout process",
+    "Description": "Ensure that a user can successfully complete the checkout process",
+    "PreRequisities": "User has products in the shopping cart",
+    "TestSteps": "1. Navigate to the checkout page\n2. Enter shipping information\n3. Complete the payment",
+    "TestData": "Shipping Address, Payment Details",
+    "ExpectedResult": "Order is successfully placed",
+    "Status": true,
+    "module_id": "3gvc43"
+  },
+  {
+    "id": "rgqa",
+    "testTitle": "Order Tracking",
+    "scenario": "User tracks the status of an order",
+    "Description": "Verify that a user can track the status of a placed order",
+    "PreRequisities": "User has placed an order",
+    "TestSteps": "1. Navigate to the order tracking page\n2. Enter order details\n3. View order status",
+    "TestData": "Order ID",
+    "ExpectedResult": "User can see the current status of the order",
+    "Status": true,
+    "module_id": "htsrbb7"
+  },
+  {
+    "id": "Cqa9k",
+    "testTitle": "Generate Sales Reportsad",
+    "scenario": "Admin generates a sales report",
+    "Description": "Ensure that an admin user can generate a sales report",
+    "PreRequisities": "Admin user is logged in",
+    "TestSteps": "1. Navigate to the reporting section\n2. Select date range and generate report",
+    "TestData": "Date Range",
+    "ExpectedResult": "Sales report is generated successfully",
+    "Status": true,
+    "module_id": "dfgsg"
+  },
+  {
+    "id": "gjfhfd",
+    "testTitle": "View Dashboard",
+    "scenario": "User views the dashboard",
+    "Description": "Validate that a user can view the dashboard with relevant information",
+    "PreRequisities": "User is logged in and on the dashboard page",
+    "TestSteps": "1. Navigate to the dashboard\n2. View key performance indicators",
+    "TestData": "Dashboard Metrics",
+    "ExpectedResult": "User can see relevant dashboard information",
+    "Status": true,
+    "module_id": "vre543"
+  },
+  {
+    "id": "9reyw",
+    "testTitle": "Change Password",
+    "scenario": "User changes their account password",
+    "Description": "Validate that a user can change their account password",
+    "PreRequisities": "User is logged in and on the account settings page",
+    "TestSteps": "1. Navigate to account settings\n2. Enter current and new password\n3. Save changes",
+    "TestData": "Current Password, New Password",
+    "ExpectedResult": "User's password is changed successfully",
+    "Status": true,
+    "module_id": "3gvc43"
+  },
+  {
+    "id": "gsdfdvsv",
+    "testTitle": "Generate Analytics Report",
+    "scenario": "Admin generates an analytics report",
+    "Description": "Ensure that an admin user can generate an analytics report",
+    "PreRequisities": "Admin user is logged in",
+    "TestSteps": "1. Navigate to the analytics section\n2. Select parameters and generate report",
+    "TestData": "Analytics Parameters",
+    "ExpectedResult": "Analytics report is generated successfully",
+    "Status": true,
+    "module_id": "3gvc43"
+  },
+  {
+    "id": "arMwb",
+    "module_id": "c-wer5e34",
+    "testTitle": "asfaf",
+    "scenario": "<ul><li>afsfas</li><li>afsfaf</li><li>asffa</li></ul>",
+    "Description": "<p>afsfasfasa</p>",
+    "ExpectedResult": "<p>asf</p>",
+    "PreRequisities": "<p>asfasf</p>",
+    "TestSteps": "<p>afaf</p>",
+    "TestData": "<p>asfas</p>"
+  }
+]

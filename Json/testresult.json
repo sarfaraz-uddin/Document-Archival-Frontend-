@@ -1,0 +1,192 @@
+[
+  {
+    "ResultId": 1,
+    "TestId": 1,
+    "TestedBy": 9,
+    "ActualResult": "User registration was successful",
+    "TestedOn": "2023-08-15",
+    "status": true
+  },
+  {
+    "ResultId": 2,
+    "TestId": 2,
+    "TestedBy": 10,
+    "ActualResult": "User login was successful",
+    "TestedOn": "2023-08-16",
+    "status": true
+  },
+  {
+    "ResultId": 3,
+    "TestId": 3,
+    "TestedBy": 9,
+    "ActualResult": "Product was successfully added to the cart",
+    "TestedOn": "2023-08-15",
+    "status": true
+  },
+  {
+    "ResultId": 4,
+    "TestId": 4,
+    "TestedBy": 10,
+    "ActualResult": "Order was placed successfully",
+    "TestedOn": "2023-08-16",
+    "status": true
+  },
+  {
+    "ResultId": 5,
+    "TestId": 5,
+    "TestedBy": 9,
+    "ActualResult": "Order status is displayed correctly",
+    "TestedOn": "2023-08-15",
+    "status": true
+  },
+  {
+    "ResultId": 6,
+    "TestId": 6,
+    "TestedBy": 10,
+    "ActualResult": "Sales report is generated and displayed",
+    "TestedOn": "2023-08-16",
+    "status": true
+  },
+  {
+    "ResultId": 7,
+    "TestId": 7,
+    "TestedBy": 9,
+    "ActualResult": "Dashboard information is displayed correctly",
+    "TestedOn": "2023-08-15",
+    "status": true
+  },
+  {
+    "ResultId": 8,
+    "TestId": 8,
+    "TestedBy": 10,
+    "ActualResult": "Admin user login was successful",
+    "TestedOn": "2023-08-16",
+    "status": true
+  },
+  {
+    "ResultId": 9,
+    "TestId": 9,
+    "TestedBy": 9,
+    "ActualResult": "User's password was changed successfully",
+    "TestedOn": "2023-08-15",
+    "status": false
+  },
+  {
+    "ResultId": 10,
+    "TestId": 10,
+    "TestedBy": 10,
+    "ActualResult": "Analytics report is generated and displayed",
+    "TestedOn": "2023-08-16",
+    "status": false
+  },
+  {
+    "TestId": "dfgesb",
+    "TestedBy": "",
+    "ActualResult": "",
+    "TestedOn": "2023-08-23",
+    "testcase_id": "dfgesb",
+    "status": true
+  },
+  {
+    "TestId": "kLgRk",
+    "TestedBy": "admin",
+    "ActualResult": "<p>Test result for KlgRk</p>",
+    "TestedOn": "2023-08-23",
+    "testcase_id": "kLgRk",
+    "status": true
+  },
+  {
+    "TestId": "kLgRk",
+    "TestedBy": "admin",
+    "ActualResult": "<p>New Test case for KLGRK</p>",
+    "TestedOn": "2023-08-23",
+    "testcase_id": "kLgRk",
+    "status": true
+  },
+  {
+    "TestId": "kLgRk",
+    "TestedBy": "admin",
+    "ActualResult": "<p>NEWWWW test result for KLGRK</p>",
+    "TestedOn": "2023-08-23",
+    "testcase_id": "kLgRk",
+    "status": true
+  },
+  {
+    "TestId": "kLgRk",
+    "TestedBy": "admin",
+    "ActualResult": "",
+    "TestedOn": "2023-08-23",
+    "testcase_id": "kLgRk",
+    "status": true
+  },
+  {
+    "TestId": "kLgRk",
+    "TestedBy": "admin",
+    "ActualResult": "<p>Checking status</p>",
+    "TestedOn": "2023-08-23",
+    "status": true,
+    "testcase_id": "kLgRk"
+  },
+  {
+    "TestId": "kLgRk",
+    "TestedBy": "admin",
+    "ActualResult": "<p>false status</p>",
+    "TestedOn": "2023-08-23",
+    "status": false,
+    "testcase_id": "kLgRk"
+  },
+  {
+    "TestId": "kLgRk",
+    "TestedBy": "user",
+    "ActualResult": "<p>check test history first</p>",
+    "TestedOn": "2023-08-23T10:46:14.190Z",
+    "status": false,
+    "testcase_id": "kLgRk"
+  },
+  {
+    "TestId": "kLgRk",
+    "TestedBy": "user",
+    "ActualResult": "<p>check test-history second</p>",
+    "TestedOn": "2023-08-23T10:46:25.013Z",
+    "status": true,
+    "testcase_id": "kLgRk"
+  },
+  {
+    "TestId": "kLgRk",
+    "TestedBy": "user",
+    "ActualResult": "<p>check</p>",
+    "TestedOn": "2023-08-23T10:47:15.282Z",
+    "status": false,
+    "testcase_id": "kLgRk"
+  },
+  {
+    "TestId": "kLgRk",
+    "TestedBy": "user",
+    "ActualResult": "<p>check 2</p>",
+    "TestedOn": "2023-08-23T10:47:20.349Z",
+    "status": true,
+    "testcase_id": "kLgRk"
+  },
+  {
+    "TestId": "kLgRk",
+    "TestedBy": "user",
+    "ActualResult": "",
+    "TestedOn": "2023-08-23T10:47:26.813Z",
+    "testcase_id": "kLgRk"
+  },
+  {
+    "TestId": "sadgsd",
+    "TestedBy": "user",
+    "ActualResult": "<p>HToiekhtn coelsrkdjhsfg n;isehdfgknv</p>",
+    "TestedOn": "2023-08-27T07:33:00.623Z",
+    "status": false,
+    "testcase_id": "sadgsd"
+  },
+  {
+    "TestId": "sadgsd",
+    "TestedBy": "user",
+    "ActualResult": "",
+    "TestedOn": "2023-08-27T07:33:06.641Z",
+    "testcase_id": "sadgsd"
+  }
+]

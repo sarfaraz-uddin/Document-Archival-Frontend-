@@ -1,0 +1,28 @@
+label {
+  font-weight: bold;
+}
+
+.normal-label {
+  font-weight: 500;
+}
+
+.bold-label {
+    font-weight: bolder;
+    color: black;
+}
+.smaller-font{
+  font-size:0.9rem !important;
+}
+
+.cross{
+  margin-top:10px;
+}
+
+.reduced-margin{
+  margin-right:0px !important;
+  margin-left:0px !important;
+}
+
+.MuiFormGroup-root{
+  margin-right:5px !important;
+}
